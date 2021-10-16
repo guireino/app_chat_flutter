@@ -10,7 +10,7 @@ Projeto feito no curso da udemy, app um chat que usuário tem que cadastra para 
 
 <table style="border: 10px solid black">
   <tr>
-    <td>Carregamendo do appp</td>
+    <td>Carregamendo do app</td>
     <td><img src="screenshots/Screenshot_0.png" width="300" height="600"></td>
     <td>Login da app</td>
     <td><img src="screenshots/Screenshot_1.png" width="300" height="600"></td>
