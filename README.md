@@ -8,18 +8,23 @@ Projeto feito no curso da udemy, app um chat que usuário tem que cadastra para 
 
 <!-- <p>Carregamendo do appp  <img src="screenshots/Screenshot_0.png" width="300" height="600"> </p>  -->
 
-<table style="border: 10px solid black">
+<table>
   <tr>
-    <td>Carregamendo do app</td>
+    <td>Carregamendo<br>do<br>app</td>
     <td><img src="screenshots/Screenshot_0.png" width="300" height="600"></td>
-    <td>Login da app</td>
+    <td>Login do app</td>
     <td><img src="screenshots/Screenshot_1.png" width="300" height="600"></td>
   </tr>
+</table>
+
+<table>
   <tr>
-    <td>Cadastro do app, o usuário pode escolhe image para o seu perfil</td>
+    <td><p>cadastro do app,<br> 
+      o usuário pode<br> 
+      escolhe image<br>
+      para o seu perfil</p></td>
     <td><img src="screenshots/Screenshot_2.png" width="300" height="600"></td>
     <td>chat --></td>
     <td><img src="screenshots/Screenshot_3.png" width="300" height="600"></td>
   </tr>
-</table> 
-
+</table>
