@@ -2,16 +2,24 @@
 
 A new Flutter project.
 
-## Getting Started
+Projeto feito no curso da udemy, app um chat que usuário tem que cadastra para entra no chat, e o dados do cadastro estão no firebase cloud
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 # app_chat_flutter
+
+<!-- <p>Carregamendo do appp  <img src="screenshots/Screenshot_0.png" width="300" height="600"> </p>  -->
+
+<table style="border: 10px solid black">
+  <tr>
+    <td>Carregamendo do appp</td>
+    <td><img src="screenshots/Screenshot_0.png" width="300" height="600"></td>
+    <td>Login da app</td>
+    <td><img src="screenshots/Screenshot_1.png" width="300" height="600"></td>
+  </tr>
+  <tr>
+    <td>Cadastro do app</td>
+    <td><img src="screenshots/Screenshot_2.png" width="300" height="600"></td>
+    <td>chat --></td>
+    <td><img src="screenshots/Screenshot_3.png" width="300" height="600"></td>
+  </tr>
+</table> 
+
