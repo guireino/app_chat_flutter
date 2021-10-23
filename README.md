@@ -24,7 +24,7 @@ Projeto feito no curso da udemy, app um chat que usuário tem que cadastra para 
       escolhe image<br>
       para o seu perfil</p></td>
     <td><img src="screenshots/Screenshot_2.png" width="300" height="600"></td>
-    <td>chat --></td>
+    <td>chat</td>
     <td><img src="screenshots/Screenshot_3.png" width="300" height="600"></td>
   </tr>
 </table>
